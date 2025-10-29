@@ -2,7 +2,7 @@
 
 ## Arquitetura do Sistema
 
-![Architecture Diagram](image/arquitetura.png)
+![Architecture Diagram](https://github.com/RogerToledo/desavio-aws/blob/main/image/arquitetura.png)
 
 Este projeto implementa uma solução completa de análise de dados utilizando serviços AWS, com integração para visualização em PowerBI.
 
